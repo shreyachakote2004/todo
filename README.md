@@ -4,11 +4,11 @@
 This is a simple **To-Do List App** built using **Flask**. I created this project as a fun way to practice Flask and get hands-on experience with web development. I've always wanted a **customized to-do app**, and building one myself was a great learning experience!
 
 ## 🛠 Features
-✅ **Add Tasks** - Easily add new tasks to the list.  
-✅ **Delete Tasks** - Remove completed or unnecessary tasks.  
-✅ **Clear List** - Reset the entire task list.  
-✅ **Simple UI** - A clean and minimal interface.  
-✅ **Persistent Storage** - Tasks are stored in a text file (`tasks.txt`).  
+- **Add Tasks** - Easily add new tasks to the list.  
+- **Delete Tasks** - Remove completed or unnecessary tasks.  
+- **Clear List** - Reset the entire task list.  
+- **Simple UI** - A clean and minimal interface.  
+- **Persistent Storage** - Tasks are stored in a text file (`tasks.txt`).  
 
 ## 📂 Project Structure
 ```
